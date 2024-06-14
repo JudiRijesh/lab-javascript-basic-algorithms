@@ -58,5 +58,6 @@ for(let i=0; i<longText.length; i++){
 }
 console.log(words+1)
 console.log(et)
+
 //Bonus 2
-let phraseToCheck = 
+let phraseToCheck = palindrome
